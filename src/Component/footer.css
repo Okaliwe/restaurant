@@ -1,0 +1,44 @@
+.footer{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+}
+li{
+  position: relative;
+  top: 10px;
+  margin-left:20%;
+  margin-top: 20px;
+  
+}
+.Lins{
+    text-decoration: none;
+    color:white;
+  }
+  .Lis{
+    text-decoration: none;
+    color:white;
+  }
+  .Ls{
+    text-decoration: none;
+    color:white;
+    
+  }
+  .Ls:hover{
+      color: brown;
+  }
+  .Lis:hover{
+    color: brown;
+}
+.Lins:hover{
+    color: brown;
+}
+@media screen and (min-width:720px){
+ li{
+    display:inline;
+    margin-left: 15%;   
+  }
+}
+  
+
+   
+   

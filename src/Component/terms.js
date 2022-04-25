@@ -1,0 +1,95 @@
+import './terms.css'
+const Terms = () => {
+    return ( 
+        <div>
+            <span>Website Usage Policy</span><br/><br/>
+Please familiarise yourself with our website usage policy as it contains important information concerning your rights and responsibilities when using our site. Should you have any queries concerning our website policy and the handling of your personal information, please contact Customer Care via our website. The quoted text offers a short explanation of the terms of use and is not legally binding.<br/><br/>
+
+1.Please read our terms of use carefully. Your use of this website and any of the services offered on this website will be subject to the then current version of our terms available on this website at the time of your use. If you do not accept our terms of use, you may not access our website or use any of the services available via our website.<br/>
+2.Our terms contain specific provisions to limit our liability. These terms have been set out in capital letters. You should pay particular attention to these terms since they limit your ability to recover losses that you may incur in connection with your use of our website.<br/><br/>
+3.If you are not yet 18, you must obtain your parents' or legal guardians' advance authorisation, permission and consent to be bound by our terms of use prior to you accessing our website, using any of the services on our web site or participating in any of the activities offered. If you are under 18 and fail to obtain such consent you may not access our website, use the services or participate in the activities available via our website.<br/><br/>
+4.We may change our terms of use from time to time. Such changes will take effect as and when published. Therefore, you should keep up-to-date with their content and read these terms of use at all times prior to using this web site since the then current version of the terms will apply to your use.<br/><br/>
+<span>Part A: General Information and Terms</span><br/><br/>
+<span>1. General Information</span><br/><br/>
+For your convenience, we have listed below some general information about ourselves:
+
+"We" are Retail Supermarkets Nigeria Ltd, and "us" and "our" have a corresponding meaning herein.
+We are a company incorporated in accordance with the laws of the Republic of Nigeria with registration number RC611080.
+Our address of establishment is at The Palms Mall, off British International School Way, off Lekki Expressway, Maroko, Victoria Island, Lagos, Nigeria, and we will accept service of all legal documents there;<br/><br/>
+<span>2. Definitions</span><br/><br/>
+In these terms of use:
+
+Products means any goods or other products that are made available by us via this web site;
+We, us and our means Retail Supermarkets Nigeria Ltd (and, unless the context indicates otherwise, its owners, employees, suppliers, internet service providers, agents and affiliates);
+You mean the user of this website;
+Hyperlinks, which are not operational, will not in any way detract from the validity and interpretation of the terms.<br/><br/>
+
+<span>3. General Conditions of Use for this Website</span>.<br/><br/>
+1.You are solely responsible for any and all telephone usage and rental fees and/or internet access service fees that may apply to your use of this web site and the services offered on it..<br/><br/>
+2.You may not access this site for any purpose other than for utilizing the services offered on it in the normal manner. You may not access our site for the purposes of redistributing or otherwise using any of our content for your own business purposes unless you are expressly licensed thereto by us in writing. You may not use your access to this site in a manner that would bring us, our business and/or any of our affiliates into disrepute..<br/><br/>
+3.Furthermore, you may not access this site for unlawful purposes or use it in a manner which infringes our rights or the rights of any other person or restricts or inhibits the use of or enjoyment of this site by any other person. In this regard, you must comply with the laws, regulations and codes of conduct applicable to your use of this site..<br/><br/>
+4.You may not to post or transfer any material to our web site that is unlawful or violates any third party's rights or which is obscene, misleading, inaccurate, defamatory, illegal, in breach of any copyright or other intellectual property right, or damaging to data, software or the performance of our or any other parties' computer system. We may remove any content you have submitted to this site and/or suspend your access to any part of this site at any time without notice..<br/><br/>
+5.We do not usually monitor, edit, control or filter the content submitted to this site by our users. Such content, including as may be found in blogs, forums, chat groups, comment sections and bulletin boards, do not represent our views and we have not authorized or endorsed such content. Such content should also not be viewed as professional advice of any kind, be it medical, legal, financial or otherwise. Please notify our Customer Care Centre if you have a complaint about the activities of or content submitted by a user of this site.<br/><br/>
+6.We do not distribute or endorse any products, services or events posted, promoted and/or listed on our site other than the products and services we supply ourselves and our display of such products, services or events should not be construed as any form of endorsement thereof. All arrangements regarding such products, services and events are to be made directly with the supplier thereof.<br/><br/>
+7.Notwithstanding that this site may contain links to third party web sites and that some third party web sites may contain links to this site we do not control, endorse or approve the activities or content of any such third party web sites. Please contact the relevant web site proprietor if you have a complaint about the activities or contents of a third party web site.
+Proprietary rights (including without limitation, the trade marks, copyright and patent rights) in the components of this site belong to us and our licensors, including in the compilations, collective works and derivative works created incorporating the content of our users.<br/><br/>
+8.The individual content you may submit will remain your property, but you grant us an irrevocable, perpetual, worldwide, transferable, sub-licensable and royalty-free license to use such content free from any restriction and on the basis as if we were the owners thereof, including by modifying, reproducing, compiling, publishing, publicly performing, distributing, broadcasting and promoting it.<br/><br/>
+9.The downloading and use of data contained on this web site is done at your sole discretion. You should independently verify the completeness and reliability of information provided on or via this site. Also be aware that viruses or code which may have a harmful effect on your computer system could be transmitted to you. You are responsible for implementing suitable protection mechanisms to prevent such harm from occurring.<br/><br/>
+10.ACCESS TO OUR WEB SITE SERVICES IS PROVIDED TO YOU FREE OF CHARGE. RELIANCE ON AND USE OF OUR WEBSITE, CONTENT AND SERVICES ARE THEREFORE AT YOUR OWN RISK. IN NO EVENT WILL WE BE LIABLE TO YOU FOR ANY LOSS OR DAMAGE OF ANY KIND IN CONTRACT, DELICT (INCLUDING NEGLIGENCE), STATUTE OR OTHERWISE ARISING IN CONNECTION WITH YOUR RELIANCE ON OR USE OF THIS SITE OR THE CONTENT OR SERVICES PROVIDED, SAVE TO THE EXTENT THAT SUCH LIABILITY CANNOT BE EXCLUDED BY APPLICABLE LAW OR THE CONTRARY IS EXPRESSLY STATED.<br/><br/>
+11.We also reserve the right, without notice and in our sole and absolute discretion, to make changes to any parts of the site inclusive of changes to these terms of use including those relating to our ordering service. It is your responsibility to review our terms of use on each occasion prior to making use of this site and our ordering service. If you continue to use this site after our amended terms of use has been posted on the web site, it will constitute a deemed acceptance of such amended terms of use. We specifically reserve the right at any time to change or discontinue without notice, any aspect and/or feature of this web site.<br/><br/>
+12.You will be required to choose a user name and a password when registering with us or using some of our services. You are responsible for keeping your user name and password secret. You will be required to enter your username and password every time you want to use one of our subscription services. You accept that you will be personally liable for all transactions concluded on your account.<br/><br/>
+13.We are committed to protecting your privacy. We will collate the information which you give to us to provide you with services and personalize your use and visits of this site. We may also use such information to inform you, the user, about changes in the services we offer and/or about features we think you would find of interest. We may also permit the affiliated entities in our company group to inform you about products or services they offer that might interest you.<br/><br/>
+14.By giving us this information, you consent to our use of it for these purposes and for the purposes outlined in our Data Privacy Statement, including for the purpose of processing your orders and instructions. For further information regarding our treatment of your personal information, you are referred to our Data Privacy Statement.<br/><br/>
+15.We have to protect our business and secure our systems. Consequently, you should note that we may monitor and keep records of any communication that you may send to or receive via our website and we may use, publish and disclose such communications for any lawful purpose. This may include our filtering of incoming and outgoing electronic data messages to identify, limit and/or prevent the transmission of unlawful or otherwise undesirable material or content.<br/><br/>
+<span>Part B: Competitions</span>
+<br/><br/>
+1.Unless expressly stated otherwise these terms will apply to all competitions offered on this web site. In the event of conflict between these terms and the rules applicable to any specific competition, the specific competition's rules will prevail. Specific competition rules will be made available on our website. The competition offer will set out at least the following:
+--The prizes on offer;
+--The steps required to participate;
+--The basis for determining the winners;
+--The closing date;
+--How the winners will be made known;
+--Where, when and from whom prizes are to be claimed;
+The address of the web pages where the competition rules and these terms can be obtained.<br/><br/>
+2.All competitions offered on this web site will be open to local residents only unless expressly stated otherwise. We may also stipulate additional entry criteria for entrants to a competition (e.g. a minimum age) and any entrant failing to comply with such criteria may be refused entry.<br/><br/>
+3.Anyone working for us or any entity in our group or for the supplier of the prizes for the relevant competition (including any director, employee, contractor, agent or consultant) and any person with more than 5% shareholding in any of our group entities, or for any of our advertising, media or public relations agencies, as well as any family members of any of the aforesaid are prohibited from entering any competitions offered on this web site.<br/><br/>
+4.The closing date for any competition will be as stated. The judges cannot accept responsibility for late entries.<br/><br/>
+5.We will be entitled to all right, title and interest in all entries submitted, including all intellectual property rights. Entrants must do all things necessary, including the execution of any requisite documentation to transfer such rights to us, as and when requested.<br/><br/>
+6.Any entrant may be required to submit proof of age. If you are not yet 18, you will be required to obtain your parents' or legal guardians' advance authorisation, permission and consent to participating in a competition or any of the related activities. If you fail to obtain such consent you may not participate in the competition or the related activities.<br/><br/>
+7.The judge’s decision will be final. We will not enter into correspondence.<br/><br/>
+8.All entrants' information will be used only in accordance with our Data Privacy Statement.<br/><br/>
+9.Where entry by SMS is applicable, SMSs are charged. Standard rates apply. Free rates do not apply.<br/><br/>
+10.Any deviation from the rules and/or attempt to manipulate the outcome of the prize will result in disqualification.<br/><br/>
+11.We reserve the right not to award a prize in any situation where it would be unlawful to do so.<br/><br/>
+12.Multiple winners may be subject to tie-break to decide an outright winner.<br/><br/>
+13.We may re-allot prizes if we are unable to contact selected winners. Please ensure that you provide the correct contact details.<br/><br/>
+14.Your name may be published when winners are announced.
+Winners may be requested to be photographed for publicity purposes or to participate in a radio or television broadcast or other marketing activity. No fees will be payable in this regard. Participation in any such marketing activity is voluntary and may be declined.<br/><br/>
+15.No cash alternative is available to any prize unless expressly stated otherwise.<br/><br/>
+16.Prizes are non-transferable in whole or in part, must be taken as stated and may not be sold to a third party. You must confirm acceptance of the prize as stated, failing which you will no longer be eligible for a prize, and that prize will be re-allotted.
+If any prize offered becomes unavailable for reasons outside of our control, we reserve the right to select an alternative prize of equivalent type and value.<br/><br/>
+17.Where prizes involve travelling abroad, winners must be in possession of a valid passport, required visas and the relevant health certificates.<br/><br/>
+18.We accept no responsibility for any incorrect or incomplete registration details that you may supply as part of your registration. <br/><br/>
+19.No responsibility will be accepted for undelivered, lost or delayed entries. Proof of sending is not proof of receipt. Errors in entries may, in the judges' discretion, void entries.<br/><br/>
+20.YOU ENTER OUR COMPETITIONS AT YOUR OWN DISCRETION AND RISK. WE, OUR AFFILIATES, COMPETITION PARTNER/S AND THEIR RESPECTIVE SHAREHOLDERS, EMPLOYEES, OFFICERS AND REPRESENTATIVES SHALL NOT BE LIABLE IN ANY WAY WHATSOEVER FOR ANY LOSS, DAMAGE, INJURY OR COSTS, HOWSOEVER ARISING, SUFFERED AS A RESULT OF YOUR PARTICIPATION IN A COMPETITION, SAVE TO THE EXTENT THAT SUCH LIABILITY MAY NOT BE EXCLUDED UNDER APPLICABLE LAW.<br/><br/>
+<span>Part C: Complaints and General</span><br/><br/>
+1.We aim to provide you with a quality service. If, however, you feel that you have cause to complain, you can submit a form online to our Customer Care Centre. We will try to do our best to resolve any problems that arise. We require that provide us with the following as part of your complaint:
+--Your full names, physical address, telephone number and email address;
+--The location and description of the service feature or transaction which is the cause of your complaint;
+--The problem with the service or transaction or rights that you allege to be infringed by such feature or component;
+The actions you would like us to take to remedy the problem;
+--A statement confirming that you are making the complaint in good faith;
+--A statement confirming that the information you are providing to us is to the best of your knowledge true and correct;
+Please incorporate your signature into the complaint.<br/><br/>
+2.Use of this web site is subject to the laws of the Republic of Nigeria, and the exclusive jurisdiction of the High Court of Nigeria provided that if any Lower Court has competent jurisdiction over your person to adjudicate on any dispute arising from or in connection with these terms of use, such Lower Court will also have jurisdiction to adjudicate the dispute notwithstanding that the amount in dispute may exceed such court's jurisdiction. You agree to accept service of legal process at the addresses you may provide to us when you use or subscribe to our web site services.<br/><br/>
+3.These terms of use and the terms incorporated herein by reference and the relevant terms implied herein by applicable law constitute the entire agreement between you and us with respect to this site, the services offered here and any products and services acquired through this site. These terms of use shall override any contrary terms or conditions incorporated by you in your communications with us and any such conflicting terms or conditions will not form part of the agreement concluded between us.<br/><br/>
+4.Our failure to enforce any provision of this agreement strictly will not be construed as a waiver of any provision or right. In the event that a portion of this agreement is held unenforceable or invalid by any competent authority, the unenforceable portion will be construed in accordance with applicable law as nearly as possible to reflect the original intentions of the parties, and the remainder of the provisions will remain in force and effect to the fullest extent permitted by the law.<br/><br/>
+5.You may not subcontract, cede, delegate, transfer or assign any of your rights, obligations or duties hereunder to any other person without our prior written consent. We may cede, delegate, transfer and assign our rights, obligations and duties hereunder to any other person.<br/><br/>
+6.We will be excused from a failure to perform or delay in performance of our obligations hereunder if and to the extent that circumstances outside our reasonable control prevent or delay such performance.<br/><br/>
+7.We will try to ensure that sensitive payment information (such as your credit card details) provided to us are suitably protected. For such purposes we will implement reasonable security measures which may include cryptographic techniques to protect such information. HOWEVER, WE DO NOT GUARANTEE THE ABSOLUTE SECURITY OF ANY INFORMATION YOU TRANSMIT TO US OR THAT IS TRANSMITTED TO YOU OR ANY OTHER PERSON.<br/><br/>
+8.Attendance at any promotion event may be hazardous to the health or safety of the attendees or their property. YOU ATTEND PROMOTIONAL EVENTS AT YOUR OWN RISK. WE ARE NOT RESPONSIBLE FOR THE ARRANGEMENTS OF ANY PROMOTIONAL EVENT OR FOR YOUR SECURITY OR SAFETY OR THE SECURITY OR SAFETY OF YOUR PROPERTY IN ATTENDING SUCH EVENT. Please contact the relevant Event Organiser if you have suffered any loss or damage in attending an event.
+        </div>
+     );
+}
+ 
+export default Terms;

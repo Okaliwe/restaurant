@@ -1,38 +1,240 @@
-.App {
-  text-align: center;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Navbar{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color:black;
+  max-width: 100%;
+}
+.scrolled{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color:black;
+  z-index: 1;
+}
+ul{
+  list-style: none;
+}
+ul li {
+  display: inline;
+  margin: 20px;
+  line-height: 70px;
+}
+.Links{
+  text-decoration: none;
+  color:white;
+}
+li .Links:hover{
+   color: brown;
+}
+h1{
+  line-height: 70px;
+  margin-left: 50px;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+img{
+  background-size: contain;
+  max-width: 100%;
+  filter: blur(1px);
+  height: 600px;
+}
+.images{
+  background-image:url(/src/images/gc-libraries-creative-tech-lab-wiOEVPVRfW4-unsplash.jpg) ;
+  max-width: 100%;
+  height: 580px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+.text{
+  position: relative;
+  top: 180px;
+  left: 7%;
+}
+h2{
+  left:20%;
+  font-size:3rem;
+  color: white;
+}
+p{
+  font-size: 1.5rem;
+  color: white;
+}
+h3{
+  margin-top: 50px;
+  text-align: center;
+}
+.newdavs{
+  margin-top: 10px;
+}
+.img1{
+  margin-top: 50px;
+  background-size:contain;
+  max-width:100%;
+  height: 300px;
+}
+.img2{
+  margin-top:-5px;
+  background-size:contain;
+  width: 100%;
+  height: 300px;
+}
+.img5{
+  margin-top: 50px;
+  background-size:contain;
+  width: 100%;
+  height: 300px;
+}
+.img6{
+  margin-top:-5px;
+  background-size:contain;
+  width: 100%;
+  height: 300px;
+}
+.img3{
+  background-image: url(/src/images/sam-hojati-M4hazNIyTsk-unsplash.jpg);
+  width: 100%;
+  height: 300px;
+  border-radius: 20px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+#para{
+  color: black;
+  text-align: center;
+  font-size: 1rem;
+  word-wrap: inherit;
+}
+#pad{
+  z-index: 1;
+  color: red;
+  font-weight: bold;
+  text-align: center;
+}
+#da{
+  font-size: 1rem;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+#pa{
+  background-color:transparent;
+  opacity: 0.5;
+  position: relative;
+  left: 40px;
+  top: 20px;
+  width: 80%;
+  height: 250px;
+  border: 2px solid white;
+}
+.img4{
+  background-image: url(/src/images/zane-persaud-qFn515nfhDs-unsplash.jpg);
+  width: 100%;
+  height: 300px;
+  border-radius: 20px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.lab{
+  position: relative;
+  font-size: 1.2rem;
+  border: 2px solid red;
+  background-color: crimson;
+  top: 320px;
+  left: 80%;
+  z-index: 1;
+}
+.res{
+  position: relative;
+  font-size: 1.2rem;
+  border: 2px solid red;
+  background-color: crimson;
+  top: 270px;
+  left: 80%;
+  z-index: 1;
+}
+h4{
+  text-align: center;
+}
+.times{
+  background-color: lightgrey;
+  margin-top: 40px;
+}
+h6{
+  text-align: center;
+  position: relative;
+  top: 25px;
+  font-size: 1.5rem;
+}
+#weekdays{
+  text-align: center;
+  margin-top: 10px;
+  width: 100%;
+  height: 100px;
+  background-color: white;
+}
+h5{
+  position: relative;
+  top: 50px;
+}
+#btn{
+  text-decoration: none;
+  color: white;
+}
+.btn{
+  top: -60px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media screen and (min-width:720px){
+  .img3{
+    width: 30%;
   }
-  to {
-    transform: rotate(360deg);
+  .img4{
+    width:30% ;
   }
+  .newdavs{
+    display: flex;
+    justify-content: space-around;
+  }
+ 
+ .img1{
+   width:300px;
+ }
+ .img2{
+   width:300px;
+   margin-top:50px;
+ }
+ .img5{
+width: 300px;
+ }
+ .img6{
+width: 300px;
+margin-top: 50px;
+ }
+ .hotmeals{
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+ }
+ .days{
+   display: flex;
+   justify-content: space-around;
+   margin: 20px;
+   height:150px ;
+ }
+ #weekdays{
+  text-align: center;
+  margin: 10px;
+  width: 60%;
+}
+.btn{
+  top: -60px;
+  left: 28%;
+  height: 40px;
+}
 }

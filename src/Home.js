@@ -7,6 +7,7 @@ import {NavLink} from "react-router-dom";
 const Home = () => {
     return ( 
         <>
+        <div></div>
            <div className='images'>
             <div className="text">
                <h2>My RESTAURANT</h2>
